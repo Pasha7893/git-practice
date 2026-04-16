@@ -3,3 +3,4 @@ Added feature 1
 Main change
 Different change
 Different change
+Feature 1 change
